@@ -1,0 +1,6 @@
+D:\Samples\CSharpTutorial\Classes\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+D:\Samples\CSharpTutorial\Classes\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+D:\Samples\CSharpTutorial\Classes\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+D:\Samples\CSharpTutorial\Classes\InheritanceDemo\obj\Debug\InheritanceDemo.csprojResolveAssemblyReference.cache
+D:\Samples\CSharpTutorial\Classes\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+D:\Samples\CSharpTutorial\Classes\InheritanceDemo\obj\Debug\InheritanceDemo.pdb

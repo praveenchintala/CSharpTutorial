@@ -1,0 +1,6 @@
+D:\Samples\CSharpTutorial\Classes\PartialDemo\bin\Debug\PartialDemo.exe.config
+D:\Samples\CSharpTutorial\Classes\PartialDemo\bin\Debug\PartialDemo.exe
+D:\Samples\CSharpTutorial\Classes\PartialDemo\bin\Debug\PartialDemo.pdb
+D:\Samples\CSharpTutorial\Classes\PartialDemo\obj\Debug\PartialDemo.csprojResolveAssemblyReference.cache
+D:\Samples\CSharpTutorial\Classes\PartialDemo\obj\Debug\PartialDemo.exe
+D:\Samples\CSharpTutorial\Classes\PartialDemo\obj\Debug\PartialDemo.pdb

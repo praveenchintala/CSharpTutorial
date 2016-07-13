@@ -1,0 +1,6 @@
+D:\Samples\CSharpTutorial\Classes\StaticDemo\bin\Debug\StaticDemo.exe.config
+D:\Samples\CSharpTutorial\Classes\StaticDemo\bin\Debug\StaticDemo.exe
+D:\Samples\CSharpTutorial\Classes\StaticDemo\bin\Debug\StaticDemo.pdb
+D:\Samples\CSharpTutorial\Classes\StaticDemo\obj\Debug\StaticDemo.csprojResolveAssemblyReference.cache
+D:\Samples\CSharpTutorial\Classes\StaticDemo\obj\Debug\StaticDemo.exe
+D:\Samples\CSharpTutorial\Classes\StaticDemo\obj\Debug\StaticDemo.pdb
