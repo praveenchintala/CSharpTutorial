@@ -13,7 +13,7 @@ namespace InheritanceDemo
             Console.Read();
 
             Console.WriteLine("Default Contrucrtor");
-            ClassB b = new ClassB("Sample");
+            ClassB b1 = new ClassB("Sample");
 
 
         }
